@@ -1,0 +1,14 @@
+{
+  "name": "lambda",
+  "version": "1.0.0",
+  "description": "Project for experimenting with math functions in JS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arnaud Jalbert",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
